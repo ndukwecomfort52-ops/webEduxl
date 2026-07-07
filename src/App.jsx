@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "https://eduxl2-production.up.railway.app/api/v1/auth";
+const API = "https://eduxl2.up.railway.app/api/v1/auth";
 
 function formatDate(iso) {
   if (!iso) return "—";
